@@ -1,17 +1,9 @@
-# Colab Notebook
+# Bài tập phân tích dữ liệu
 
-This repository contains a Google Colab notebook for data analysis and visualization.
+## Hướng dẫn sử dụng
+1. Mở file `.ipynb` trong repository.
+2. Nếu muốn chạy trên Google Colab, nhấn vào link sau: [Open in Colab](https://colab.research.google.com/drive/16ZCxEHSx4avHNP3VPdgtttzzHebI0V37).
 
-## How to Use
-
-1. Open the Colab notebook directly from the link below:
-   [Open in Google Colab](https://colab.research.google.com/drive/16ZCxEHSx4avHNP3VPdgtttzzHebI0V37)
-
-2. Alternatively, download the `.ipynb` file and upload it to your Google Drive to work on it.
-
-## Content
-
-The notebook covers:
-- Data analysis techniques
-- Visualization examples
-- Practical insights on specific datasets
+## Nội dung bài tập
+- Phân tích dữ liệu tips
+- Trực quan hóa dữ liệu theo các tiêu chí: giới tính, ngày trong tuần, buổi ăn.
